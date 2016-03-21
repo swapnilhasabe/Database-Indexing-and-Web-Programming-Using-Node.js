@@ -1,0 +1,26 @@
+ORAWRAP TIMIE :
+
+NO INDEX :
+
+real    0m0.163s
+user    0m0.004s
+sys     0m0.000s
+
+
+INDEX 1 :
+
+real    0m0.162s
+user    0m0.002s
+sys     0m0.003s
+
+INDEX 2 :
+
+real    0m0.160s
+user    0m0.002s
+sys     0m0.002s
+
+INDEX 3 :
+
+real    0m0.158s
+user    0m0.002s
+sys     0m0.002s

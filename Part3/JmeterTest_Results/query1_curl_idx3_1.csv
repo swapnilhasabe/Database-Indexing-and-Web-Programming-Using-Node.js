@@ -1,0 +1,3 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
+Majestic HTTP Request,234,839,1008,1528,1641,1734,54,1798,0.00%,.1,.0
+TOTAL,234,839,1008,1528,1641,1734,54,1798,0.00%,.1,.0

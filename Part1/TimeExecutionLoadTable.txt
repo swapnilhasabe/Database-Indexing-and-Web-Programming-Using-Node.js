@@ -1,0 +1,56 @@
+Time for loading MAJESTIC
+real    0m17.316s
+user    0m3.739s
+sys     0m0.270s
+Time for MAJESTIC_INDEX1 TAble load
+real    0m29.051s
+user    0m3.740s
+sys     0m0.313s
+Time for MAJESTIC_INDEX2 Table loading
+real    0m33.036s
+user    0m3.728s
+sys     0m0.324s
+Time for MAJESTIC_INDEX3 Table loading
+real    0m30.863s
+user    0m3.782s
+sys     0m0.295s
+time to execute sql queries on
+Query_india_domain query
+Majestic table
+Elapsed: 00:00:00.63
+index1 table
+Elapsed: 00:00:00.58
+index2 table
+Elapsed: 00:00:00.59
+index3 table
+Elapsed: 00:00:00.56
+
+Query Top domain 
+Majestic table 
+Elapsed: 00:00:31.48
+
+Majestic Index1
+Elapsed: 00:00:28.49
+
+majestic Index2
+Elapsed: 00:00:30.40
+
+Majestic Index3
+Elapsed: 00:00:27.01
+
+Query_wikipedia
+Majestic
+Elapsed: 00:00:00.08
+index1
+Elapsed: 00:00:00.06
+index2
+Elapsed: 00:00:00.06
+index3
+Elapsed: 00:00:00.06
+Conclusion that I found:
+Majestic Table(Table with no index) takes less time while loading table, but takes more time while executing query(Search speed is slow).
+Tables with indexes take more time while loading table, but take less time while executing query.(Search result is fast.)
+
+
+
+

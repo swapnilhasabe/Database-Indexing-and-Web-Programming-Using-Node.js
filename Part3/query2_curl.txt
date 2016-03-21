@@ -1,0 +1,23 @@
+NO INDEX :
+
+real    0m0.188s
+user    0m0.001s
+sys     0m0.003s
+
+INDEX 1 :
+
+real    0m0.183s
+user    0m0.001s
+sys     0m0.003s
+
+INDEX 2 :
+
+real    0m0.185s
+user    0m0.001s
+sys     0m0.003s
+
+INDEX 3 :
+
+real    0m0.184s
+user    0m0.002s
+sys     0m0.002s
